@@ -4,7 +4,7 @@
     📖 About Me
   </div>
 
-  <div style="margin:; padding:0; background:#1d2433; border:none; font-size:16px; color:#ffffff; ">
+  <div style="margin:; padding:0; background:#848484; border:none; font-size:16px; color:#ffffff; ">
 
     🎓 Software Engineering Student @Braude College of Engineering.
     💻 Entry-level Software Engineer.
