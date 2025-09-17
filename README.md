@@ -1,4 +1,4 @@
-<div style="background:#171c28; color:#ffffff; padding-left:10px; padding-right:10px;padding-bottom:0.05px; font-size:16px; margin:0; border-radius:11px;">
+<div style="background:#848484; color:#ffffff; padding-left:10px; padding-right:10px;padding-bottom:0.05px; font-size:16px; margin:0; border-radius:11px;">
 
   <div style="font-weight:bold; font-size:20px; ">
     📖 About Me
