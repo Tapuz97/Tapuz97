@@ -134,7 +134,7 @@
     <div style="font-weight:bold; font-size:22px; padding:4px 0;">
       <code>🔗 Social Links</code>
     </div>
-    <div style="padding:5px; font-size:16px; background:#1d2433; border-radius:11px;">
+    <div style="padding:45px; font-size:16px; background:#1d2433; border-radius:11px;">
       <!-- Flexbox for responsiveness -->
       <div style="display:flex; flex-wrap:wrap; justify-content:left; align-items:left; gap:25px; padding:10px 10px 0 10px;">
         <a href="https://www.linkedin.com/in/galmitrani1/" target="_blank">
