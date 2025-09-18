@@ -104,22 +104,22 @@
     <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-top:6px;">
       <a href="https://github.com/Tapuz97/Git_IssueManager" style="flex:1 1 380px; max-width:none; text-decoration:none;">
         <img src="https://i.imgur.com/be5V76E.png" alt="GitHub Issue Manager"
-             style="width:50%; border-radius:11px; background:#1d2433; padding:25px; box-sizing:border-box; max-width:none;">
+             style="width:40%; border-radius:11px; background:#1d2433; padding:25px; box-sizing:border-box; max-width:none;">
       </a>
       <a href="https://github.com/Tapuz97/solar_placement" style="flex:1 1 380px; max-width:none; text-decoration:none;">
         <img src="https://i.imgur.com/64VumUc.png" alt="Solar Panel Placement Program"
-             style="width:50%; border-radius:11px; background:#1d2433; padding:25px; box-sizing:border-box; max-width:none;">
+             style="width:40%; border-radius:11px; background:#1d2433; padding:25px; box-sizing:border-box; max-width:none;">
       </a>
     </div>
     <!-- Row 2 -->
     <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-top:6px;">
       <a href="https://github.com/Tapuz97/Parking-CRM-Management-System" style="flex:1 1 380px; max-width:none; text-decoration:none;">
         <img src="https://i.imgur.com/jLxMKzu.png" alt="Parking Lot CRM Management System"
-             style="width:50%; border-radius:11px; background:#1d2433; padding:25px; box-sizing:border-box; max-width:none;">
+             style="width:40%; border-radius:11px; background:#1d2433; padding:25px; box-sizing:border-box; max-width:none;">
       </a>
       <a href="https://github.com/Tapuz97/pdf-receipt-generator" style="flex:1 1 380px; max-width:none; text-decoration:none;">
         <img src="https://i.imgur.com/BOSgEXE.png" alt="PDF Receipt Generator"
-             style="width:50%; border-radius:11px; background:#1d2433; padding:25px; box-sizing:border-box; max-width:none;">
+             style="width:40%; border-radius:11px; background:#1d2433; padding:25px; box-sizing:border-box; max-width:none;">
       </a>
     </div>
   </div>
