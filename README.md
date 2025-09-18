@@ -7,7 +7,7 @@
 <div style="margin-bottom:20px; margin-top:20px;">
   <div style="background:#151b23; color:#ffffff; padding: 0px 10px 10px 10px; font-size:16px; border-radius:11px; font-family:monospace;">
     <div style="font-weight:bold; font-size:22px; padding: 2px 0px 2px 0px;">
-    📜 About Me
+    <code>📜 About Me</code>
     </div>
     <div style="padding:5px ;font-size:16px ;white-space:pre-line; line-height:1.6; background:#1d2433; border-radius:11px">🎓 Software Engineering Student @ Braude College of Engineering.
       💻 Entry-level Software Engineer.
@@ -23,7 +23,7 @@
 <div style="margin-bottom:20px; margin-top:20px;">
   <div style="background:#151b23; color:#ffffff; padding: 0px 10px 10px 10px; font-size:16px; border-radius:11px; font-family:monospace;">
     <div style="font-weight:bold; font-size:22px; padding: 2px 0px 2px 0px;">
-    ▶️ On Going
+    <code>▶️ On Going</code>
     </div>
     <div style="padding:5px ;font-size:16px ;white-space:pre-line; line-height:1.6; background:#1d2433; border-radius:11px">🔭 Currently working on large-scale client–server systems and 3D printed hardware projects.
       🌱 Continuously learning machine learning, cloud technologies, and advanced system design.
@@ -39,7 +39,7 @@
 <div style="margin-bottom:1px; margin-top:20px;">
   <div style="background:#151b23; color:#ffffff; padding: 0px 10px 10px 10px; font-size:16px; border-radius:11px; font-family:monospace;">
     <div style="font-weight:bold; font-size:22px; padding: 2px 0px 2px 0px;">
-    🪄​ Skills
+    <code>🪄​ Skills</code>
     </div>
     <div style="padding:5px ;font-size:16px ;background:#1d2433; border-radius:11px ;margin-bottom:20px;">💻 Programming
         <div style="padding-top:10px; background:transparent; font-size:0;">
@@ -99,27 +99,27 @@
 <!-- Projects -->
 <div style="margin:20px auto; width:100%;">
   <div style="background:#151b23; color:#fff; padding:10px; font-size:16px; border-radius:11px; font-family:monospace;">
-    <div style="font-weight:bold; font-size:22px; padding:4px 0;">🏗️ Notable Projects</div>
+    <div style="font-weight:bold; font-size:22px; padding:4px 0;"><code>🏗️ Notable Projects</code></div>
     <!-- Row 1 -->
     <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-top:6px;">
       <a href="https://github.com/Tapuz97/Git_IssueManager" style="flex:1 1 380px; max-width:none; text-decoration:none;">
         <img src="https://i.imgur.com/be5V76E.png" alt="GitHub Issue Manager"
-             style="width:100%; border-radius:11px; background:#1d2433; padding:10px; box-sizing:border-box; max-width:none;">
+             style="width:40%; border-radius:11px; background:#1d2433; padding:10px; box-sizing:border-box; max-width:none;">
       </a>
       <a href="https://github.com/Tapuz97/solar_placement" style="flex:1 1 380px; max-width:none; text-decoration:none;">
         <img src="https://i.imgur.com/64VumUc.png" alt="Solar Panel Placement Program"
-             style="width:100%; border-radius:11px; background:#1d2433; padding:10px; box-sizing:border-box; max-width:none;">
+             style="width:40%; border-radius:11px; background:#1d2433; padding:10px; box-sizing:border-box; max-width:none;">
       </a>
     </div>
     <!-- Row 2 -->
     <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-top:6px;">
       <a href="https://github.com/Tapuz97/Parking-CRM-Management-System" style="flex:1 1 380px; max-width:none; text-decoration:none;">
         <img src="https://i.imgur.com/jLxMKzu.png" alt="Parking Lot CRM Management System"
-             style="width:100%; border-radius:11px; background:#1d2433; padding:10px; box-sizing:border-box; max-width:none;">
+             style="width:40%; border-radius:11px; background:#1d2433; padding:10px; box-sizing:border-box; max-width:none;">
       </a>
       <a href="https://github.com/Tapuz97/pdf-receipt-generator" style="flex:1 1 380px; max-width:none; text-decoration:none;">
         <img src="https://i.imgur.com/BOSgEXE.png" alt="PDF Receipt Generator"
-             style="width:100%; border-radius:11px; background:#1d2433; padding:10px; box-sizing:border-box; max-width:none;">
+             style="width:40%; border-radius:11px; background:#1d2433; padding:10px; box-sizing:border-box; max-width:none;">
       </a>
     </div>
   </div>
@@ -132,7 +132,7 @@
 <div style="margin:20px 0;">
   <div style="background:#151b23; color:#ffffff; padding:0 10px 10px 10px; font-size:16px; border-radius:11px; font-family:monospace;">
     <div style="font-weight:bold; font-size:22px; padding:4px 0;">
-      🔗 Social Links
+      <code>🔗 Social Links</code>
     </div>
     <div style="padding:5px; font-size:16px; background:#1d2433; border-radius:11px;">
       <!-- Flexbox for responsiveness -->
